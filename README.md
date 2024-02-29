@@ -1,1 +1,1 @@
-# lab
+# how to clone repo
